@@ -39,7 +39,7 @@
 
 | Plateforme | Statut |
 |---|---|
-| 📱 Android | ✅ Disponible |
+| 📱 Android | 🚧 En développement |
 | 🪟 Windows | ✅ Disponible |
 | 🐧 Linux | 🚧 En développement |
 
