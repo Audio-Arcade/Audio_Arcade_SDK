@@ -4,7 +4,7 @@
 
 > Partagez votre musique à distance, en temps réel, sans réseau commun — et gardez le contrôle total de votre session.
 
-📱 ~~Android~~ *(à venir)* 🪟 **Windows** &nbsp;·&nbsp; 🐧 ~~Linux~~ *(à venir)*
+📱 **Android** &nbsp;·&nbsp; 🪟 **Windows** &nbsp;·&nbsp; 🐧 ~~Linux~~ *(à venir)*
 
 ---
 
